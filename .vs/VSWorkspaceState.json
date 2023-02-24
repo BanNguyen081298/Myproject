@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyProject",
+    "\\MyProject.Infrastructure",
+    "\\MyProject.Infrastructure\\Interface",
+    "\\MyProject.Infrastructure\\Presistent",
+    "\\MyProject.Infrastructure\\Repository"
+  ],
+  "SelectedNode": "\\MyProject.sln",
+  "PreviewInSolutionExplorer": false
+}

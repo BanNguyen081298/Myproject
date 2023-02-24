@@ -840,7 +840,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ntban\\.nuget\\packages\\": {}
+    "C:\\Users\\ntban\\.nuget\\packages\\": {},
+    "D:\\SOFTWARE\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -851,8 +852,12 @@
       "packagesPath": "C:\\Users\\ntban\\.nuget\\packages\\",
       "outputPath": "D:\\NTBAN\\Angular\\MyProject\\MyProject.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\SOFTWARE\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
         "C:\\Users\\ntban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -860,6 +865,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\SOFTWARE\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
